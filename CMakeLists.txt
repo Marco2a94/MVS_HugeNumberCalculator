@@ -3,4 +3,4 @@ project(MVS_HugeNumberCalculator C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(MVS_HugeNumberCalculator main.c)
+add_executable(MVS_HugeNumberCalculator main.c main1.c)
