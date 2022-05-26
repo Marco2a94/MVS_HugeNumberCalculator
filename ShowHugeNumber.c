@@ -19,7 +19,7 @@ static char* HugeIntToString (const HugeInt* hugeInt) {
 static char* HugeFloatToString (const HugeFloat* hugeFloat) {
     return NULL;
 }
-
+//implémentation de la fonction printHugeUnsignedInt()
 void printHugeUnsignedInt (const HugeUnsignedInt* hugeUnsignedInt) {
 }
 
