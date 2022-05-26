@@ -1,6 +1,3 @@
-//
-// Created by marco on 26/05/2022.
-//
 #include <stdlib.h>
 #include <string.h>
 #include "DoublyLinkedList.h"
@@ -64,4 +61,3 @@ void removeEndFromDoublyLinkedList (DoublyLinkedList* doublyLinkedList) {
 Digit getDigitByPlaceFromStart (const DoublyLinkedList* doublyLinkedList, unsigned int place) {
     return 0;
 }
-
